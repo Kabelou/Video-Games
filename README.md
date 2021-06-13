@@ -37,22 +37,22 @@ I don't have much to teach you about myself, I'm not someone who likes to talk a
   <br />
 </p>
 
-* Le but premier de ce projet est de me créer un porte folio de différent jeu, dans différent langage de programmation et des mécaniques de jeu différente pour la plupart des jeux.
-* Le but second est d'aider des personnes voulant créer des jeux. Il peuvent regarder, modifier, le distribuer, etc.. puisque ce projet est sous license MIT.
-* Le but tierce est de me faire une monté en compétence dans le domaine du développement de jeu vidéo.
+* Le but premier de ce projet est de me créer un portfolio de différents jeux, dans différents langages de programmation et des mécaniques de jeu différentes pour la plupart des jeux.
+* Le but second est d'aider des personnes voulant créer des jeux. Ils peuvent regarder, modifier, le distribuer, etc.. puisque ce projet est sous licence MIT.
+* Le but tierce est de me faire une montée en compétence dans le domaine du développement de jeu vidéo.
 
 <br />
 <p align="center">
   <h3 align="center">Petites explications</h3>
 </p>
 
-* L'organisation de ce dépôt sera faite par langage de programmation (librairie de jeu) ou par moteur de jeu. Puis le nom de jeu avec un README dans chaques jeux afin d'expliquer pourquoi j'ai choisi de créer ce jeu, le fonctionnement, les changelogs, etc..
-* Les graphismes des jeux seront rarement créer par moi, les graphismes qui seront pas créer par moi-même, sois par des trouvailles sur internet ou en allant payer des graphistes, seront entièrement libre de droit.
-* Tous les jeux seront développer que par moi, aucune modification d'autre utilisateur sera admis dans ce dépôt.
-* Pour finir, un executable sera disponnible pour chaques jeux. Dans la mesure du possible, ils seront multi-platforme. Pour des raisons de matériels, ils ne seront pas disponnible sur OSX, iOS et tvOS mais je ferais mon possible pour les livrer sur les OS d'Apple.<br />
+* L'organisation de ce dépôt sera faite par langage de programmation (librairie de jeu) ou par moteur de jeu. Puis le nom de jeu avec un README dans chaque jeu afin d'expliquer pourquoi j'ai choisi de créer ce jeu, le fonctionnement, les changelogs, etc..
+* Les graphismes des jeux seront rarement créés par moi, les graphismes qui ne seront pas créés par moi-même, soit par des trouvailles sur internet ou en allant payer des graphistes, seront entièrement libres de droit.
+* Je serai le seul à développer tous les jeux, aucune modification d'autre utilisateur ne sera admise dans ce dépôt.
+* Pour finir, un exécutable sera disponible pour chaque jeu. Dans la mesure du possible, ils seront multi-plateforme. Pour des raisons de matériels, ils ne seront pas disponnible sur OSX, iOS et tvOS mais je ferai mon possible pour les livrer sur les OS d'Apple.<br />
 
 <p align="center">
   <h3 align="center">Qui suis-je ?</h3>
 </p>
 
-Je m'appelle Quentin, je suis né en 1997. A l'âge de 11 j'ai commencer la programmation, c'est vite devenu une passion. Depuis je n'ai pas arrêter de programmer mais étant jeune et bête je n'ai garder aucun de mes projets.<br />Pendant toutes ces années, je suis parti sur différent langage, qu'ils soient de haut niveau comme les langages web ou de bas niveau comme le C/C++. Je fais ce dépôt afin de montrer que je suis à l'aise à travers différents langages de programmation et différente logique de programmation.<br />Je n'ai pas grand chose à vous apprendre de moi-même, je ne suis pas quelqu'un qui aime parler de sois-même, mais j'adore apprendre de nouvelles choses et de réaliser des choses que je me dit impossible.
+Je m'appelle Quentin, je suis né en 1997. A l'âge de 11 ans j'ai commencé la programmation, c'est vite devenu une passion. Depuis je n'ai pas arrêté de programmer mais étant jeune et bête je n'ai gardé aucun de mes projets.<br />Pendant toutes ces années, je suis parti sur différents langages, qu'ils soient de haut niveau comme les langages web ou de bas niveau comme le C/C++. Je fais ce dépôt afin de montrer que je suis à l'aise à travers différents langages de programmation et différentes logiques de programmation.<br />Je n'ai pas grand chose à vous apprendre de moi-même, je ne suis pas quelqu'un qui aime parler de soi-même, mais j'adore apprendre de nouvelles choses et réaliser des choses que je pense être impossibles.
